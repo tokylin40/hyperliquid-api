@@ -1,0 +1,10 @@
+{
+  "name": "hyperliquid-whale-radar",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "serve": "node scripts/serve.mjs",
+    "refresh": "node scripts/fetch-data.mjs"
+  }
+}
