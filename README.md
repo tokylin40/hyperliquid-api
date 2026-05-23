@@ -13,7 +13,7 @@
 
 ## 設定 smart wallet 清單
 
-編輯 `data/watchlist.json`：
+`data/watchlist.json` 目前預設由 ARENA/FreedomCore 公開 Hyperliquid leaderboard 篩選出高勝率且有足夠交易樣本的地址。你也可以手動編輯：
 
 ```json
 {
@@ -28,7 +28,13 @@
 }
 ```
 
-Hyperliquid 公開 API 可以查詢指定地址，但不能直接列出所有「聰明大戶」。因此這個專案把 smart wallet 定義為你維護的 watchlist，並用快照差分分析持倉變化。
+Hyperliquid 公開 API 可以查詢指定地址，但不能直接列出所有「聰明大戶」。因此這個專案用 ARENA/FreedomCore 的公開 leaderboard 先建立候選池，再用 Hyperliquid 官方 API 追蹤目前持倉。
+
+更新 watchlist：
+
+```bash
+npm run update-watchlist
+```
 
 ## 本機預覽
 
@@ -44,6 +50,7 @@ npm run serve
 2. 到 repo 的 Settings -> Pages，將 source 設成 GitHub Actions。
 3. 執行 `Deploy GitHub Pages` workflow。
 4. `Refresh Hyperliquid data` workflow 會每 30 分鐘更新資料，也可以手動 `workflow_dispatch`。
+5. `Refresh smart wallet watchlist` workflow 會每 6 小時重抓 ARENA leaderboard，更新高勝率大戶地址池並立即刷新一次快照。
 
 ## 注意
 

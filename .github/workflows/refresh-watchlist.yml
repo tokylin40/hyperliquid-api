@@ -1,0 +1,33 @@
+name: Refresh smart wallet watchlist
+
+on:
+  schedule:
+    - cron: "17 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  refresh-watchlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Select high-winrate wallets
+        run: npm run update-watchlist
+
+      - name: Refresh Hyperliquid snapshots
+        run: npm run refresh
+
+      - name: Commit updated watchlist and data
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update Hyperliquid smart wallet watchlist"
+          file_pattern: data/watchlist.json data/latest.json data/history.json
