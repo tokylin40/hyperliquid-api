@@ -418,5 +418,17 @@
       "longDelta": -5938204.963580009,
       "shortDelta": 14172.63787999982
     }
+  },
+  {
+    "generatedAt": "2026-05-25T06:50:36.537Z",
+    "totals": {
+      "trackedWallets": 20,
+      "activeWallets": 15,
+      "longExposure": 31338151.89756,
+      "shortExposure": 2011043.3178599998,
+      "netExposure": 29327108.5797,
+      "longDelta": -260614.5026899986,
+      "shortDelta": -1032.6639700001106
+    }
   }
 ]
