@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-14T14:27:37.829Z",
+  "updatedAt": "2026-06-14T19:56:45.891Z",
   "source": "https://arena.freedomcore.io/",
   "methodology": {
     "filters": {
@@ -35,9 +35,9 @@
         "winRate30d": 1,
         "trades30d": 770,
         "volume30d": 23651717.95,
-        "accountValue": 1615680.194311,
+        "accountValue": 1551002.569228,
         "openPositions": 2,
-        "totalNotionalPosition": 16776766.58911
+        "totalNotionalPosition": 17352473.38344
       }
     },
     {
@@ -63,9 +63,9 @@
         "winRate30d": 0.9503,
         "trades30d": 768,
         "volume30d": 8772073.53,
-        "accountValue": 26140.873406,
+        "accountValue": 26385.908963,
         "openPositions": 1,
-        "totalNotionalPosition": 54995.54355
+        "totalNotionalPosition": 55242.14805
       }
     },
     {
@@ -91,9 +91,9 @@
         "winRate30d": 1,
         "trades30d": 223,
         "volume30d": 573877.43,
-        "accountValue": 22550.929757,
+        "accountValue": 23423.094283,
         "openPositions": 3,
-        "totalNotionalPosition": 137887.26294
+        "totalNotionalPosition": 138760.00636
       }
     },
     {
@@ -119,9 +119,9 @@
         "winRate30d": 0.9766,
         "trades30d": 384,
         "volume30d": 846099.93,
-        "accountValue": 50680.158773,
+        "accountValue": 50621.882257,
         "openPositions": 4,
-        "totalNotionalPosition": 177465.84159
+        "totalNotionalPosition": 177409.13949
       }
     },
     {
@@ -147,9 +147,9 @@
         "winRate30d": 1,
         "trades30d": 424,
         "volume30d": 4067905.95,
-        "accountValue": 20012.202,
+        "accountValue": 64640.024,
         "openPositions": 1,
-        "totalNotionalPosition": 240852
+        "totalNotionalPosition": 483872
       }
     },
     {
@@ -175,9 +175,9 @@
         "winRate30d": 0.9949,
         "trades30d": 767,
         "volume30d": 6163494.03,
-        "accountValue": 162545.794554,
+        "accountValue": 157515.456915,
         "openPositions": 1,
-        "totalNotionalPosition": 712397.06903
+        "totalNotionalPosition": 707404.95353
       }
     },
     {
@@ -203,9 +203,9 @@
         "winRate30d": 1,
         "trades30d": 104,
         "volume30d": 545963.12,
-        "accountValue": 408878.395059,
+        "accountValue": 413113.189905,
         "openPositions": 1,
-        "totalNotionalPosition": 599732.19555
+        "totalNotionalPosition": 595529.57805
       }
     },
     {
@@ -231,9 +231,9 @@
         "winRate30d": 1,
         "trades30d": 322,
         "volume30d": 5591249.03,
-        "accountValue": 146010.166505,
+        "accountValue": 145368.62551,
         "openPositions": 1,
-        "totalNotionalPosition": 666600
+        "totalNotionalPosition": 666000
       }
     },
     {
@@ -259,9 +259,9 @@
         "winRate30d": 0.9735,
         "trades30d": 309,
         "volume30d": 719325.4,
-        "accountValue": 14651.956256,
+        "accountValue": 15152.922262,
         "openPositions": 1,
-        "totalNotionalPosition": 111189.24526
+        "totalNotionalPosition": 111693.38344
       }
     },
     {
@@ -287,9 +287,9 @@
         "winRate30d": 0.95,
         "trades30d": 378,
         "volume30d": 883378.19,
-        "accountValue": 3793.782439,
+        "accountValue": 3508.312791,
         "openPositions": 2,
-        "totalNotionalPosition": 81003.554034
+        "totalNotionalPosition": 80722.40568
       }
     },
     {
@@ -315,9 +315,9 @@
         "winRate30d": 1,
         "trades30d": 251,
         "volume30d": 599058.88,
-        "accountValue": 465479.592573,
+        "accountValue": 469253.678809,
         "openPositions": 1,
-        "totalNotionalPosition": 837657.23833
+        "totalNotionalPosition": 841455.22252
       }
     },
     {
@@ -343,9 +343,9 @@
         "winRate30d": 1,
         "trades30d": 618,
         "volume30d": 1007366.23,
-        "accountValue": 31792.500619,
+        "accountValue": 32221.728737,
         "openPositions": 1,
-        "totalNotionalPosition": 263784.3
+        "totalNotionalPosition": 263359.2
       }
     },
     {
@@ -371,7 +371,7 @@
         "winRate30d": 1,
         "trades30d": 450,
         "volume30d": 1224136.16,
-        "accountValue": 0,
+        "accountValue": 23230,
         "openPositions": 0,
         "totalNotionalPosition": 0
       }
