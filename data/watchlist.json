@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-06-20T04:39:49.452Z",
+  "updatedAt": "2026-06-20T09:37:51.650Z",
   "source": "https://arena.freedomcore.io/",
   "methodology": {
     "filters": {
@@ -35,9 +35,9 @@
         "winRate30d": 1,
         "trades30d": 770,
         "volume30d": 23651717.95,
-        "accountValue": 1805213.582151,
+        "accountValue": 1929571.055987,
         "openPositions": 2,
-        "totalNotionalPosition": 20129482.10424
+        "totalNotionalPosition": 20255008.42214
       }
     },
     {
@@ -63,9 +63,9 @@
         "winRate30d": 1,
         "trades30d": 223,
         "volume30d": 573877.43,
-        "accountValue": 23110.208474,
+        "accountValue": 24870.078874,
         "openPositions": 3,
-        "totalNotionalPosition": 152606.41828
+        "totalNotionalPosition": 154375.7596
       }
     },
     {
@@ -91,9 +91,9 @@
         "winRate30d": 1,
         "trades30d": 450,
         "volume30d": 1224136.16,
-        "accountValue": 40868.418511,
+        "accountValue": 45506.849811,
         "openPositions": 1,
-        "totalNotionalPosition": 277892
+        "totalNotionalPosition": 282548
       }
     },
     {
@@ -119,9 +119,37 @@
         "winRate30d": 0.9766,
         "trades30d": 384,
         "volume30d": 846099.93,
-        "accountValue": 54032.926819,
+        "accountValue": 54340.739414,
         "openPositions": 4,
-        "totalNotionalPosition": 181028.12019
+        "totalNotionalPosition": 181342.2877
+      }
+    },
+    {
+      "alias": "Arena T2 #21",
+      "address": "0x0696a951a96bef98d3c593c3ae772b70ee4c26e5",
+      "tags": [
+        "arena",
+        "high-winrate",
+        "t2",
+        "swing",
+        "active-position"
+      ],
+      "enabled": true,
+      "source": "arena.freedomcore.io",
+      "notes": "100% win rate, $78.10K 30d PnL, 306 trades, $5.91M 30d volume, Swing; selected 5/20.",
+      "metrics": {
+        "arenaRank": 21,
+        "tier": "T2",
+        "style": "Swing",
+        "score": 37.95,
+        "pnl30d": 78099.93,
+        "roi30d": 0.5098,
+        "winRate30d": 1,
+        "trades30d": 306,
+        "volume30d": 5908465.34,
+        "accountValue": 84202.352499,
+        "openPositions": 1,
+        "totalNotionalPosition": 864800
       }
     },
     {
@@ -136,7 +164,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "99.5% win rate, $271.29K 30d PnL, 767 trades, $6.16M 30d volume, Swing; selected 5/20.",
+      "notes": "99.5% win rate, $271.29K 30d PnL, 767 trades, $6.16M 30d volume, Swing; selected 6/20.",
       "metrics": {
         "arenaRank": 24,
         "tier": "T2",
@@ -147,9 +175,9 @@
         "winRate30d": 0.9949,
         "trades30d": 767,
         "volume30d": 6163494.03,
-        "accountValue": 130613.003145,
+        "accountValue": 132018.810307,
         "openPositions": 1,
-        "totalNotionalPosition": 704753.58552
+        "totalNotionalPosition": 706195.75222
       }
     },
     {
@@ -164,7 +192,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $107.68K 30d PnL, 104 trades, $545.96K 30d volume, Swing; selected 6/20.",
+      "notes": "100% win rate, $107.68K 30d PnL, 104 trades, $545.96K 30d volume, Swing; selected 7/20.",
       "metrics": {
         "arenaRank": 27,
         "tier": "T2",
@@ -175,9 +203,9 @@
         "winRate30d": 1,
         "trades30d": 104,
         "volume30d": 545963.12,
-        "accountValue": 415909.414696,
+        "accountValue": 414725.934509,
         "openPositions": 1,
-        "totalNotionalPosition": 593297.5212
+        "totalNotionalPosition": 594511.6107
       }
     },
     {
@@ -192,7 +220,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $78.47K 30d PnL, 322 trades, $5.59M 30d volume, Trend; selected 7/20.",
+      "notes": "100% win rate, $78.47K 30d PnL, 322 trades, $5.59M 30d volume, Trend; selected 8/20.",
       "metrics": {
         "arenaRank": 31,
         "tier": "T1",
@@ -203,9 +231,9 @@
         "winRate30d": 1,
         "trades30d": 322,
         "volume30d": 5591249.03,
-        "accountValue": 163608.997202,
+        "accountValue": 170085.917202,
         "openPositions": 1,
-        "totalNotionalPosition": 685320
+        "totalNotionalPosition": 691840
       }
     },
     {
@@ -220,7 +248,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "97.4% win rate, $15.96K 30d PnL, 309 trades, $719.33K 30d volume, Mixed; selected 8/20.",
+      "notes": "97.4% win rate, $15.96K 30d PnL, 309 trades, $719.33K 30d volume, Mixed; selected 9/20.",
       "metrics": {
         "arenaRank": 34,
         "tier": "T3",
@@ -231,9 +259,9 @@
         "winRate30d": 0.9735,
         "trades30d": 309,
         "volume30d": 719325.4,
-        "accountValue": 12689.661536,
+        "accountValue": 13088.031684,
         "openPositions": 1,
-        "totalNotionalPosition": 93775.05
+        "totalNotionalPosition": 7063.7
       }
     },
     {
@@ -248,7 +276,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $162.25K 30d PnL, 1152 trades, $720.83K 30d volume, Momentum; selected 9/20.",
+      "notes": "100% win rate, $162.25K 30d PnL, 1152 trades, $720.83K 30d volume, Momentum; selected 10/20.",
       "metrics": {
         "arenaRank": 43,
         "tier": "T3",
@@ -259,9 +287,9 @@
         "winRate30d": 1,
         "trades30d": 1152,
         "volume30d": 720833.99,
-        "accountValue": 21208.030091,
+        "accountValue": 20975.250468,
         "openPositions": 1,
-        "totalNotionalPosition": 18903
+        "totalNotionalPosition": 18670
       }
     },
     {
@@ -276,7 +304,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "95.0% win rate, $9.57K 30d PnL, 378 trades, $883.38K 30d volume, Mixed; selected 10/20.",
+      "notes": "95.0% win rate, $9.57K 30d PnL, 378 trades, $883.38K 30d volume, Mixed; selected 11/20.",
       "metrics": {
         "arenaRank": 46,
         "tier": "T3",
@@ -287,9 +315,9 @@
         "winRate30d": 0.95,
         "trades30d": 378,
         "volume30d": 883378.19,
-        "accountValue": 3462.952147,
+        "accountValue": 3816.766194,
         "openPositions": 2,
-        "totalNotionalPosition": 69944.6512
+        "totalNotionalPosition": 87909.45964
       }
     },
     {
@@ -304,7 +332,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $78.30K 30d PnL, 251 trades, $599.06K 30d volume, Mixed; selected 11/20.",
+      "notes": "100% win rate, $78.30K 30d PnL, 251 trades, $599.06K 30d volume, Mixed; selected 12/20.",
       "metrics": {
         "arenaRank": 47,
         "tier": "T3",
@@ -315,9 +343,9 @@
         "winRate30d": 1,
         "trades30d": 251,
         "volume30d": 599058.88,
-        "accountValue": 591751.628369,
+        "accountValue": 608051.071581,
         "openPositions": 1,
-        "totalNotionalPosition": 966371.33989
+        "totalNotionalPosition": 982731.88717
       }
     },
     {
@@ -332,7 +360,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $10.81K 30d PnL, 618 trades, $1.01M 30d volume, Mixed; selected 12/20.",
+      "notes": "100% win rate, $10.81K 30d PnL, 618 trades, $1.01M 30d volume, Mixed; selected 13/20.",
       "metrics": {
         "arenaRank": 61,
         "tier": "T3",
@@ -343,9 +371,9 @@
         "winRate30d": 1,
         "trades30d": 618,
         "volume30d": 1007366.23,
-        "accountValue": 26696.635874,
+        "accountValue": 22774.048461,
         "openPositions": 1,
-        "totalNotionalPosition": 291540.83
+        "totalNotionalPosition": 296911.75
       }
     },
     {
@@ -360,7 +388,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "95.0% win rate, $25.51K 30d PnL, 768 trades, $8.77M 30d volume, Swing; selected 13/20.",
+      "notes": "95.0% win rate, $25.51K 30d PnL, 768 trades, $8.77M 30d volume, Swing; selected 14/20.",
       "metrics": {
         "arenaRank": 7,
         "tier": "T1",
@@ -388,7 +416,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "98.1% win rate, $186.10K 30d PnL, 766 trades, $7.06M 30d volume, Swing; selected 14/20.",
+      "notes": "98.1% win rate, $186.10K 30d PnL, 766 trades, $7.06M 30d volume, Swing; selected 15/20.",
       "metrics": {
         "arenaRank": 15,
         "tier": "T2",
@@ -416,7 +444,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $153.11K 30d PnL, 424 trades, $4.07M 30d volume, Trend; selected 15/20.",
+      "notes": "100% win rate, $153.11K 30d PnL, 424 trades, $4.07M 30d volume, Trend; selected 16/20.",
       "metrics": {
         "arenaRank": 17,
         "tier": "T1",
@@ -444,7 +472,7 @@
       ],
       "enabled": true,
       "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $171.17K 30d PnL, 148 trades, $1.76M 30d volume, Trend; selected 16/20.",
+      "notes": "100% win rate, $171.17K 30d PnL, 148 trades, $1.76M 30d volume, Trend; selected 17/20.",
       "metrics": {
         "arenaRank": 18,
         "tier": "T1",
@@ -455,34 +483,6 @@
         "winRate30d": 1,
         "trades30d": 148,
         "volume30d": 1764900.79,
-        "accountValue": 0,
-        "openPositions": 0,
-        "totalNotionalPosition": 0
-      }
-    },
-    {
-      "alias": "Arena T2 #21",
-      "address": "0x0696a951a96bef98d3c593c3ae772b70ee4c26e5",
-      "tags": [
-        "arena",
-        "high-winrate",
-        "t2",
-        "swing",
-        "no-open-position"
-      ],
-      "enabled": true,
-      "source": "arena.freedomcore.io",
-      "notes": "100% win rate, $78.10K 30d PnL, 306 trades, $5.91M 30d volume, Swing; selected 17/20.",
-      "metrics": {
-        "arenaRank": 21,
-        "tier": "T2",
-        "style": "Swing",
-        "score": 37.95,
-        "pnl30d": 78099.93,
-        "roi30d": 0.5098,
-        "winRate30d": 1,
-        "trades30d": 306,
-        "volume30d": 5908465.34,
         "accountValue": 0,
         "openPositions": 0,
         "totalNotionalPosition": 0
