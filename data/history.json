@@ -1,17 +1,5 @@
 [
   {
-    "generatedAt": "2026-07-11T10:08:01.006Z",
-    "totals": {
-      "trackedWallets": 20,
-      "activeWallets": 12,
-      "longExposure": 32093663.02425,
-      "shortExposure": 3005700.0168199996,
-      "netExposure": 29087963.007430002,
-      "longDelta": -86099.98311999813,
-      "shortDelta": -7988.091560000554
-    }
-  },
-  {
     "generatedAt": "2026-07-11T11:27:55.442Z",
     "totals": {
       "trackedWallets": 20,
@@ -1149,6 +1137,18 @@
       "netExposure": 29493577.42933,
       "longDelta": -118694.06850999594,
       "shortDelta": -6343.726790000219
+    }
+  },
+  {
+    "generatedAt": "2026-07-16T12:13:27.294Z",
+    "totals": {
+      "trackedWallets": 20,
+      "activeWallets": 11,
+      "longExposure": 33136483.76759,
+      "shortExposure": 2121583.9629100002,
+      "netExposure": 31014899.80468,
+      "longDelta": 1518533.818810001,
+      "shortDelta": -2788.5565399997868
     }
   }
 ]
